@@ -1,4 +1,4 @@
-# Most languages hhave this iinbuilt but here's the
+# Most languages have this inbuilt but here's the
 # overall structure for it
 
 
